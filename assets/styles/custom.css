@@ -25,9 +25,10 @@ img
 
 pre
 {
+    font-family: 'Noto Sans Bengali', 'Noto Sans';
     padding: 0.5em;
     font-weight: normal;
-    font-size: 90%;
+    font-size: 100%;
 }
 
 h1, h2, h3
