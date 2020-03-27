@@ -1,0 +1,4 @@
+## Jekyll build settings
+markdown: kramdown
+
+
