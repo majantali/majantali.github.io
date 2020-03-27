@@ -23,7 +23,7 @@ img
     width: 100%;
 }
 
-pre
+pre.code
 {
     font-family: 'Noto Sans Bengali', 'Noto Serif';
     padding: 0.5em;
