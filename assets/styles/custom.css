@@ -1,8 +1,6 @@
-@media screen {
-    body
-    {
-	font-family: 'Noto Sans Bengali', 'Noto Sans';
-    }
+body
+{
+    font-family: 'Noto Sans Bengali', 'Noto Sans';
 }
 
 @media print {
@@ -10,6 +8,11 @@
     {
 	font-family: 'Noto Sans Bengali', 'Noto Serif';
     }
+}
+
+pre code
+{
+    font-family: 'Noto Sans Bengali', 'Noto Sans';
 }
 
 h1.title { text-align: left; }
@@ -23,9 +26,8 @@ img
     width: 100%;
 }
 
-pre code
+pre
 {
-    font-family: 'Noto Sans Bengali', 'Noto Serif';
     padding: 0.5em;
     font-weight: normal;
     font-size: 90%;
