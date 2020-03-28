@@ -1,5 +1,6 @@
 ## Jekyll build settings
 markdown: kramdown
 kramdown:
-  syntax_highlighter: +nil+
+  syntax_highlighter_opts:
+    disable : true
   toc_levels: 1
