@@ -24,6 +24,9 @@
       <div class="container-sm">
 	<nav>
 	  <a href="/">Home</a>
+
+            {% include toc.html html=content sanitize=false class="nav_toc" id="my_toc" h_min=1 h_max=1 %}
+	  
 	</nav>
 	<hr class="hr-primary"/>
 	<header>
