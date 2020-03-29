@@ -4,9 +4,6 @@ author: সুকুমার রায়
 language: bn
 ---
 
-* সূচী
-{:toc}
-
 
 
 
