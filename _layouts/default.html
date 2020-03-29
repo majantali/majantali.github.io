@@ -18,11 +18,11 @@
 
 </head>
 
-<body>
+<body data-spy="scroll" data-target="#toc">
   <div id="page-content">
     <section>
       <div class="container-sm">
-	<nav>
+	<nav id="toc" data-spy="affix" data-toggle="toc">
 	  <a href="/">Home</a>
 
             {% include toc.html html=content sanitize=false class="nav_toc" id="my_toc" h_min=1 h_max=1 %}
