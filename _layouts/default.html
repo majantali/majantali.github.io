@@ -25,17 +25,16 @@
 
 	<div class="row flex-xl-nowrap">
 
-          <div class="col-md-3 col-xl-2 bd-sidebar">
-	    <nav class="collapse bd-links" id="bd-toc-nav" aria-label="Main navigation">
-	      <div class="bd-toc-item active">
-		<a class="bd-toc-link" href="/">Home</a>
+          <div class="col-md-3 col-xl-2">
+	    <nav class="toc" id="toc-nav" aria-label="TOC">
+	      <div>
+		<a href="/">Home</a>
 {% include toc.html html=content sanitize=false class="nav bd-sidenav" h_min=1 h_max=2 %}
 	      </div>
 	    </nav>
 	  </div>
 
-  
-          <main class="col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" role="main">
+          <main class="col-md-9 col-xl-8" role="main">
 
 	    <hr class="hr-primary"/>
 	    <header>
