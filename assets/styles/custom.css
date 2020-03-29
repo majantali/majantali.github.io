@@ -38,6 +38,13 @@ h1, h2, h3
     font-family: 'Noto Sans Bengali', 'Noto Serif';
 }
 
+
+h1.title
+{
+    padding: 10px;
+    font-weight: bold;
+}
+
 div.toc ul
 { 
     display: inline;
