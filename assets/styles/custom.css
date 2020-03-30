@@ -44,23 +44,6 @@ h1.title
     font-weight: bold;
 }
 
-div.toc ul
-{ 
-    display: inline;
-    list-style: none;
-    list-style-position: inside;
-    padding-left: 0px;
-}
-
-div.toc li
-{ 
-    padding: 5px;
-}
-
-div.toc li:hover 
-{ 
-  background-color: #efefef;
-}
 
 a.nav-link
 {
@@ -82,5 +65,26 @@ a.nav-link:hover
     overflow-y: auto;
 }
 
+.dropdown-menu ul
+{ 
+    display: inline;
+    list-style: none;
+    list-style-position: inside;
+    padding-left: 0px;
+}
+
+
+
+.dropdown-menu li a
+{ 
+    padding: 5px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.dropdown-menu li:hover 
+{ 
+    background-color: #efefef;
+}
 
 
