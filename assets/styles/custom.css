@@ -1,5 +1,6 @@
 body
 {
+    padding-top: 4.5rem;
     font-family: 'Noto Sans Bengali', 'Noto Sans';
 }
 
@@ -15,8 +16,6 @@ pre code
     font-family: 'Noto Sans Bengali', 'Noto Sans';
 }
 
-h1.title { text-align: left; }
-p.author { text-align: left; }
 
 img
 {
@@ -35,9 +34,9 @@ pre
 
 h1, h2, h3
 {
+    padding: 5px;
     font-family: 'Noto Sans Bengali', 'Noto Serif';
 }
-
 
 h1.title
 {
@@ -62,4 +61,26 @@ div.toc li:hover
 { 
   background-color: #efefef;
 }
+
+a.nav-link
+{
+    fill: rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+    padding: 5px;
+}
+
+a.nav-link:hover
+{
+    fill: rgba(255, 255, 255, 1);
+    text-decoration: none;
+    padding: 5px;
+}
+
+
+.dropdown-menu {         
+    max-height: 85vh;
+    overflow-y: auto;
+}
+
+
 
