@@ -89,7 +89,7 @@ h1.title
 }
 
 
-.dropdown-menu li a
+.dropdown-menu ul li a, ul.toc-print li a
 { 
     text-decoration: none;
     color: inherit;
