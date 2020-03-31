@@ -8,6 +8,15 @@ body
     body
     {
 	font-family: 'Noto Sans Bengali', 'Noto Serif';
+	font-size: 150%;
+    }
+    pre code
+    {
+	font-size: 100%;
+    }
+    h1
+    {
+	page-break-before: always;
     }
 }
 
@@ -30,6 +39,7 @@ pre
     padding: 0.5em;
     font-weight: normal;
     font-size: 90%;
+    border: none;
 }
 
 h1, h2, h3
@@ -65,7 +75,7 @@ h1.title
     overflow-y: auto;
 }
 
-.dropdown-menu ul
+.dropdown-menu ul, ul.toc-print
 { 
     display: inline;
     list-style: none;
