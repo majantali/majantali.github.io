@@ -63,9 +63,9 @@
 	  <p class="h1 title">{{ page.title }}</p>
 	  <p class="h2 author">{{ page.author }}</p>
 	  <h1>সূচীপত্র</h1>
-
-	  {% include toc.html html=content sanitize=false
-	     class="toc-print" h_min=1 h_max=1 %}
+{% include toc.html html=content sanitize=false class="toc-print" h_min=1 h_max=1 %}
+	</div>
+	  
 
 	  {{ content }}
 
