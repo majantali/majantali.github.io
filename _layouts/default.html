@@ -22,46 +22,32 @@
   <div id="page-content">
     <section>
 
-      <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top" id="topnav">
 	<div class="container-fluid">
 
 	  <div class="navbar-header">
-	    <ul class="navbar-nav mr-auto">
-
-	      <li class="nav-item">
-		<a href="/" class="nav-link" role="button">
+	    <div class="btn-group navbar-nav mr-auto nav-item dropdown">
+	      <button type="button" class="btn nav-link"
+		      data-toggle="dropdown" aria-haspopup="true"
+		      aria-expanded="false">
+                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 16" width="24" height="32">
+                   <path fill-rule="evenodd" d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z">
+                   </path>
+                 </svg>
+	      </button>
+	      <div class="dropdown-menu">
+		<a href="/" class="dropdown-item" role="button">
 		  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24">
 		    <path fill-rule="evenodd" d="M16 9l-3-3V2h-2v2L8 1 0 9h2l1 5c0 .55.45 1 1 1h8c.55 0 1-.45 1-1l1-5h2zm-4 5H9v-4H7v4H4L2.81 7.69 8 2.5l5.19 5.19L12 14z"></path>
 		  </svg>
-		  <span class="d-none d-lg-inline">Home</span>
+		  Home
 		</a>
-	      </li>
-
-	      <li class="nav-item dropdown">
-		<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
-		   role="button" data-toggle="dropdown" aria-haspopup="true"
-		   aria-expanded="false">
-		  <!-- svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 16" width="24" height="32">
-		    <path fill-rule="evenodd" d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z">
-		    </path>
-		  </svg -->
-		  <span class="d-none d-lg-inline">Contents</span>
-		</a>
-		<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 
 {% include toc.html html=content sanitize=false class="list-group" item_class="list-group-item" h_min=1 h_max=1 %}
 
-		</div>
-	      </li>
-
-
-	    </ul>
-	      
-	  </div>
-
 	  <div class="navbar-header">
-	    <span class="navbar-text d-none d-sm-inline">{{ page.author }}</span>
-	    <span class="navbar-text h2 d-inline">{{ page.title }}</span>
+	    <span class="navbar-text d-inline">রবীন্দ্রনাথ ঠাকুর</span>
+	    <span class="navbar-text h1 d-inline">লিপিকা</span>
 	  </div>
 
 	</div>
@@ -90,7 +76,18 @@
 	crossorigin="anonymous">
 </script>
 
+<script src="/assets/scripts/jquery.bootstrap-autohidingnavbar.js"</script>
 
+<script type="text/javascript">
+// Javascript to set up hiding and toggling of code blocks
+
+$(document).ready(
+  function() {
+      // $('.navbar [data-toggle="dropdown"]').bootstrapDropdownHover();
+      $("#topnav").autoHidingNavbar();
+  }
+);
+</script>
 
 </body>
 </html>

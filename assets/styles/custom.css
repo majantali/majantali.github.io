@@ -1,6 +1,6 @@
 body
 {
-    padding-top: 4.5rem;
+    padding-top: 5rem;
     font-family: 'Noto Sans Bengali', 'Noto Sans';
 }
 
@@ -45,14 +45,14 @@ h1.title
 }
 
 
-a.nav-link
+.nav-link
 {
     fill: rgba(255, 255, 255, 0.5);
     text-decoration: none;
     padding: 5px;
 }
 
-a.nav-link:hover
+.nav-link:hover
 {
     fill: rgba(255, 255, 255, 1);
     text-decoration: none;
@@ -70,14 +70,17 @@ a.nav-link:hover
     display: inline;
     list-style: none;
     list-style-position: inside;
-    padding-left: 0px;
 }
 
+.dropdown-menu ul li
+{ 
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 
 
 .dropdown-menu li a
 { 
-    padding: 5px;
     text-decoration: none;
     color: inherit;
 }
