@@ -25,7 +25,6 @@ pre code
     font-family: 'Noto Sans Bengali', 'Noto Sans';
 }
 
-
 img
 {
     display: block;
@@ -48,13 +47,6 @@ h1, h2, h3
     font-family: 'Noto Sans Bengali', 'Noto Serif';
 }
 
-h1.title
-{
-    padding: 10px;
-    font-weight: bold;
-}
-
-
 .nav-link
 {
     fill: rgba(255, 255, 255, 0.5);
@@ -62,7 +54,7 @@ h1.title
     padding: 5px;
 }
 
-.navbar-text 	/* for author/title */
+.custom-nav-title 	/* for author/title */
 {
     color: rgba(255, 255, 255, 1);
 }
@@ -80,7 +72,7 @@ h1.title
     overflow-y: auto;
 }
 
-.dropdown-menu ul, ul.toc-print
+.dropdown-menu ul, ul.custom-toc-print
 { 
     display: inline;
     list-style: none;
@@ -91,10 +83,11 @@ h1.title
 { 
     padding-top: 5px;
     padding-bottom: 5px;
+    padding-left: 5px;
 }
 
 
-.dropdown-menu ul li a, ul.toc-print li a
+.dropdown-menu ul li a, ul.custom-toc-print li a
 { 
     text-decoration: none;
     color: inherit;
@@ -105,7 +98,7 @@ h1.title
     background-color: #efefef;
 }
 
-div.main-content
+div.custom-main-content
 {
     max-width: 1000px;
     margin: auto;
