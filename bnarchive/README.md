@@ -1,3 +1,9 @@
+---
+title: Public Domain Bengali Literature
+language: bn
+layout: landing
+---
+
 
 This site represents a reorganization of the Public Domain Bengali
 Literature Archive previously hosted at
