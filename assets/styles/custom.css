@@ -56,14 +56,12 @@ h1, h2, h3
 
 .custom-nav-title 	/* for author/title */
 {
-    color: rgba(255, 255, 255, 1);
+    color: #ffffff;
 }
 
 .nav-link:hover
 {
-    fill: rgba(255, 255, 255, 1);
-    text-decoration: none;
-    padding: 5px;
+    fill: #ffffff;
 }
 
 
@@ -79,15 +77,16 @@ h1, h2, h3
     list-style-position: inside;
 }
 
-.dropdown-menu ul li
+li.list-group-item
 { 
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-left: 5px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
 }
 
 
-.dropdown-menu ul li a, ul.custom-toc-print li a
+li.list-group-item a, ul.custom-toc-print li a
 { 
     text-decoration: none;
     color: inherit;
