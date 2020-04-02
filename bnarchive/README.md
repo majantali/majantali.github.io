@@ -26,6 +26,13 @@ be against the [primary
 archive](https://github.com/majantali/bnarchive).
 
 
+## Notes
+
+- Processing XML into markdown will produce a spurious blank line
+  before a closing code tag. These may be replaced (but it is not 
+  absolutely necessary to do so).
+
+
 
 
 
