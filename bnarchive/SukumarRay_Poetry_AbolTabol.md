@@ -92,7 +92,7 @@ language: bn
 # গোঁফ চুরি
 
 
-<img class="float-right hidden-sm" src="images/SukumarRay_Poetry_AbolTabol/goph-churi.svg" />
+<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/goph-churi.svg" />
 
 
 ````

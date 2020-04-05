@@ -108,6 +108,10 @@ div.custom-main-content
     margin: auto;
 }
 
+img.img-fluid
+{
+    width: "100% \9"; /* IE bug workaround?*/
+}
 img.float-right
 {
     max-width: 30%;
