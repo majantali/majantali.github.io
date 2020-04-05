@@ -1385,7 +1385,8 @@ language: bn
 শস্তায় দিতে পারি, দেখ ভেবে চিন্তে।
 ````
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/tyash-goru.svg" />
+<img class="img-fluid" src="images/SukumarRay_Poetry_AbolTabol/tyash-goru.svg" />
+
 
 * * * *
 
