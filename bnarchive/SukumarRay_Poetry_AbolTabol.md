@@ -9,6 +9,11 @@ language: bn
 
 # আবোল তাবোল
 
+
+<img class="img-fluid" 
+src="images/SukumarRay_Poetry_AbolTabol/001-abol-tabol.svg" alt="" />
+
+
 ````
 আয়রে ভোলা খেয়াল-খোলা
         স্বপনদোলা নাচিয়ে আয়,
@@ -86,6 +91,10 @@ language: bn
 * * * *
 
 # গোঁফ চুরি
+
+<img class="img-fluid float-right" 
+src="images/SukumarRay_Poetry_AbolTabol/004-goph-churi.svg" alt="" />
+
 
 ````
 হেড্ আফিসের বড়বাবু লোকটি বড় শান্ত,

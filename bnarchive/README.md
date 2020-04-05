@@ -33,6 +33,9 @@ archive](https://github.com/majantali/bnarchive).
   absolutely necessary to do so).
 
 
+- Bitmap Images can be converted into vector graphics using
+
+potrace -b svg -o out.svg -k 0.5 in.bmp 
 
 
 
