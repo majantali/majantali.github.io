@@ -55,9 +55,16 @@ language: bn
 হরিণের সাথে মিলে শিং হল পষ্ট। 
 ````
 
+<img class="img-fluid" src="images/SukumarRay_Poetry_AbolTabol/khichuri.svg" />
+
+
+
 * * * *
 
 # কাঠ-বুড়ো
+
+<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/kath-buro.svg" />
+
 
 ````
 হাঁড়ি নিয়ে দাড়িমুখো কে-যেন কে বৃদ্ধ,
@@ -188,6 +195,10 @@ language: bn
 * * * *
 
 # কাতুকুতু বুড়ো 
+
+
+<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/katukutu-buro.svg" />
+
 
 ````
 আর যেখানে যাও না রে ভাই সপ্তসাগর পার,
