@@ -107,3 +107,9 @@ div.custom-main-content
     max-width: 1000px;
     margin: auto;
 }
+
+img.float-right
+{
+    max-width: 30%;
+}
+
