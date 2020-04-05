@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-for MDFILE in bnarchive/*_*.md
+for MDFILE in *_*.md
 do
     EPUBFILE=${MDFILE/.md/.epub}
     echo "Generating ${EPUBFILE}"
@@ -8,4 +8,3 @@ do
 done
 
 
-	   

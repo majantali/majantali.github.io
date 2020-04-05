@@ -10,7 +10,7 @@ language: bn
 # আবোল তাবোল
 
 
-<img class="img-fluid" 
+<img style="max-width: 80%;"
 src="images/SukumarRay_Poetry_AbolTabol/001-abol-tabol.svg" alt="" />
 
 
@@ -92,7 +92,7 @@ src="images/SukumarRay_Poetry_AbolTabol/001-abol-tabol.svg" alt="" />
 
 # গোঁফ চুরি
 
-<img class="img-fluid float-right" 
+<img style="max-width: 30%; float: right;"
 src="images/SukumarRay_Poetry_AbolTabol/004-goph-churi.svg" alt="" />
 
 
