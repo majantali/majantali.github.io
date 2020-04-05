@@ -92,7 +92,10 @@ src="images/SukumarRay_Poetry_AbolTabol/abol-tabol-1.svg" alt="" />
 
 # গোঁফ চুরি
 
-<img class="img-fluid" style="max-width: 30%; float: right;"
+
+<!-- style="max-width: 30%; float: right;" -->
+
+<img class="img-fluid float-right" style="max-width: 30%;"
 src="images/SukumarRay_Poetry_AbolTabol/goph-churi.svg" alt="" />
 
 
