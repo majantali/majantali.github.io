@@ -40,13 +40,14 @@ layout: landing
 
 ### রবীন্দ্রনাথ ঠাকুর :: কবিতা
 	
-- [কল্পনা](bnarchive/RabindranathTagore_Poetry_Kalpana.md)
+- [কল্পনা](bnarchive/RabindranathTagore_Poetry_Kalpana)
 
-- [পুনশ্চ](bnarchive/RabindranathTagore_Poetry_Punashcha.md)
+- [পুনশ্চ](bnarchive/RabindranathTagore_Poetry_Punashcha)
 
 ### রবীন্দ্রনাথ ঠাকুর :: গান
 
-- [ভানুসিংহ ঠাকুরের পদাবলি](bnarchive/RabindranathTagore_Songs_Bhanusimha.md)
+- [ভানুসিংহ ঠাকুরের পদাবলি](bnarchive/RabindranathTagore_Songs_Bhanusimha)
+- [পূজা](bnarchive/RabindranathTagore_Songs_Puja)
 
 
 
