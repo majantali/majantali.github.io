@@ -38,5 +38,16 @@ archive](https://github.com/majantali/bnarchive).
 potrace -b svg -o out.svg -k 0.5 in.bmp 
 
 
+## Special characters:
+
+jekyll / kramdown seems to convert ASCII quotes to smart quotes
+(always?), but is not completely equivalent to pandoc. Here are some
+special characters that may be useful to set in the source:
+
+- Quotation marks: “  ”  ‘ ’
+
+- Apostrophe: ’
+
+- Dashes: –	—
 
 

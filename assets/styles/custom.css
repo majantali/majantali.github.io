@@ -113,8 +113,4 @@ img.img-fluid
     width: "100% \9"; /* IE bug workaround?*/
     max-height: 500px;
 }
-img.float-right
-{
-    max-width: 30%;
-}
 
