@@ -48,6 +48,8 @@ layout: landing
 
 - [পূজা](bnarchive/RabindranathTagore_Songs_Puja)
 
+- [স্বদেশ](bnarchive/RabindranathTagore_Songs_Swadesh)
+
 - [ভানুসিংহ ঠাকুরের পদাবলি](bnarchive/RabindranathTagore_Songs_Bhanusimha)
 
 

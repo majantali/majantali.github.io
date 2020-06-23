@@ -41,7 +41,7 @@ firstlines <- input[title.lines + 3]
 normalize <- function(s)
     ## trim whitespace, and also replace multiple spaces by 1
 {
-    p <- strsplit(trimws(s), "[ \t,;-?—।!]+")
+    p <- strsplit(trimws(s), "[ \t,;-?—।॥!]+")
     sapply(p, function(x) paste(x, collapse = " "))
 }
 
