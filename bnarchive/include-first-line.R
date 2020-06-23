@@ -1,9 +1,13 @@
 #!/usr/local/bin/Rscript --vanilla
 
+## FIXME: improve detection of first line. Currently assumes exactly
+## one blank line between title and ````; should search for first ^```
+## instead.
+
 args <- commandArgs(TRUE)
 if (length(args) != 1)
 {
-    cat("\nUsage: ./include-first-line <FILE>\n\n")
+    cat("\nUsage: ./include-first-line.R <FILE>\n\n")
     q()
 } 
 

@@ -51,3 +51,22 @@ special characters that may be useful to set in the source:
 - Dashes: –	—
 
 
+## Listing of Tagore songs
+
+Songs of Rabindranath Tagore do not have titles and are traditionally
+identified by both by sequence number (within category) and first
+their first line. This is potentially true for other large song
+collections as well.
+
+The R script [`include-first-line.R`](include-first-line.R) attempts
+to extract the first line of each song and adds it to the title,
+deleting everything after the first word, which is assumed to be the
+serial number.
+ 
+A full listing of first lines with relative links is maintained in
+<RabindranathTagore_SongList.csv>, which is eventually meant to serve
+as input for a sortable dynamic table. The initial input for this
+table is manually cut-and-pasted from the TOC of jekyll-processed HTML
+sources, which is then easily transformed by a few search and replace
+operations. Automating this does not seem worth the effort at this
+point.
