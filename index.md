@@ -53,8 +53,12 @@ layout: landing
 - [ভানুসিংহ ঠাকুরের পদাবলি](bnarchive/RabindranathTagore_Songs_Bhanusimha)
 
 
-
+### গগনেন্দ্রনাথ ঠাকুর :: গদ্য
 	
+- [ভোঁদড় বাহাদুর](bnarchive/GaganendranathTagore_Prose_BhondorBahadur)
+
+
+
 
 
 
