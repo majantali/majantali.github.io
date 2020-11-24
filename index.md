@@ -33,6 +33,8 @@ layout: landing
 	
 - [হ য ব র ল](bnarchive/SukumarRay_Prose_Hajabarala)
 
+- [পাগলা দাশু](bnarchive/SukumarRay_Prose_PaglaDashu)
+
 
 ### রবীন্দ্রনাথ ঠাকুর :: গদ্য
 	
