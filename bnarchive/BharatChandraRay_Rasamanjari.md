@@ -2,6 +2,7 @@
 title: রসমঞ্জরী
 author: ভারতচন্দ্র রায় গুণাকর
 language: bn
+layout: default
 ---
 
 

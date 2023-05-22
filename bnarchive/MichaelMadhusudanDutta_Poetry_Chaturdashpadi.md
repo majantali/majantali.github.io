@@ -2,6 +2,7 @@
 title: চতুর্দশপদী কবিতাবলী
 author: মাইকেল মধুসূদন দত্ত
 language: bn
+layout: default
 ---
 
 

@@ -2,6 +2,7 @@
 title: লিপিকা
 author: রবীন্দ্রনাথ ঠাকুর
 language: bn
+layout: default
 ---
 
 

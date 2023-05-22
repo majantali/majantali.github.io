@@ -2,6 +2,7 @@
 title: পুনশ্চ
 author: রবীন্দ্রনাথ ঠাকুর
 language: bn
+layout: default
 ---
 
 # ভূমিকা

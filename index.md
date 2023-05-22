@@ -11,16 +11,16 @@ layout: landing
 
 ### ঐতিহাসিক লেখা
 
-- [চর্যাপদ](bnarchive/Historic_Charyapad.md)
+- [চর্যাপদ](bnarchive/Historic_Charyapad)
 
 
 ### ভারতচন্দ্র রায়গুণাকর
 
-- [রসমঞ্জরী](bnarchive/BharatChandraRay_Rasamanjari.md)
+- [রসমঞ্জরী](bnarchive/BharatChandraRay_Rasamanjari)
 
 ### মাইকেল মধুসূদন দত্ত
 
-- [চতুর্দশপদী কবিতাবলী](bnarchive/MichaelMadhusudanDutta_Poetry_Chaturdashpadi.md)
+- [চতুর্দশপদী কবিতাবলী](bnarchive/MichaelMadhusudanDutta_Poetry_Chaturdashpadi)
 
 ### সুকুমার রায় :: কবিতা
 	

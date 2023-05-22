@@ -2,6 +2,7 @@
 title: আবোল তাবোল
 author: সুকুমার রায়
 language: bn
+layout: default
 ---
 
 
@@ -36,6 +37,9 @@ language: bn
 
 # খিচুড়ি
 
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/khichuri.svg" />
+
+
 ````
 হাঁস ছিল, সজারু, (ব্যাকরণ মানি না),
 হয়ে গেল ‘হাঁসজারু’ কেমনে তা জানি না।
@@ -55,15 +59,13 @@ language: bn
 হরিণের সাথে মিলে শিং হল পষ্ট। 
 ````
 
-<img class="img-fluid" src="images/SukumarRay_Poetry_AbolTabol/khichuri.svg" />
-
 
 
 * * * *
 
 # কাঠ-বুড়ো
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/kath-buro.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/kath-buro.svg" />
 
 
 ````
@@ -99,7 +101,7 @@ language: bn
 # গোঁফ চুরি
 
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/goph-churi.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/goph-churi.svg" />
 
 
 ````
@@ -197,7 +199,7 @@ language: bn
 # কাতুকুতু বুড়ো 
 
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/katukutu-buro.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/katukutu-buro.svg" />
 
 
 ````
@@ -258,7 +260,7 @@ language: bn
 
 # খুড়োর কল
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/khuror-kol.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/khuror-kol.svg" />
 
 
 ````
@@ -293,7 +295,7 @@ language: bn
 
 # লড়াই-ক্ষ্যাপা
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/lorai-khyapa.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/lorai-khyapa.svg" />
 
 ````
 ওই আমাদের পাগলা জগাই, নিত্যি হেথায় আসে;
@@ -325,6 +327,8 @@ language: bn
 * * * *
 
 # ছায়াবাজি
+
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/chhayabaji.svg" />
 
 
 ````
@@ -366,15 +370,12 @@ language: bn
 দাম করেছি শস্তা বড়, চোদ্দ আনা শিশি। 
 ````
 
-<img class="img-fluid" src="images/SukumarRay_Poetry_AbolTabol/chhayabaji.svg" />
-
-
 
 * * * *
 
 # কুম্‌ড়োপটাশ
 
-<img class="img-fluid" src="images/SukumarRay_Poetry_AbolTabol/kumropotash.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/kumropotash.svg" />
 
 
 ````
@@ -413,7 +414,7 @@ language: bn
 
 # সাবধান
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/sabdhan.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/sabdhan.svg" />
 
 
 ````
@@ -466,6 +467,11 @@ language: bn
 
 # হাতুড়ে
 
+
+<img class="img-fluid" src="images/SukumarRay_Poetry_AbolTabol/hature.svg" />
+
+
+
 ````
 একবার দেখে যাও ডাক্তারি কেরামৎ—
 কাটা ছেঁড়া ভাঙা চেরা চট্‌পট্‌ মেরামৎ।
@@ -501,9 +507,6 @@ language: bn
 কালাজ্বর, পালাজ্বর, পুরানো কি টাট্‌কা,
 হাতুড়ির এক ঘায়ে একেবারে আট্‌কা!
 ````
-
-<img class="img-fluid" src="images/SukumarRay_Poetry_AbolTabol/hature.svg" />
-
 
 
 * * * *
@@ -641,7 +644,7 @@ language: bn
 
 # নেড়া বেলতলায় যায় ক’বার?
 
-<img class="img-fluid" src="images/SukumarRay_Poetry_AbolTabol/nera-beltolai.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/nera-beltolai.svg" />
 
 
 ````
@@ -688,7 +691,7 @@ language: bn
 
 # বুঝিয়ে বলা
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/bujhiye-bola.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/bujhiye-bola.svg" />
 
 
 ````
@@ -758,7 +761,7 @@ language: bn
 
 # বুড়ির বাড়ি
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/burir-bari.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/burir-bari.svg" />
 
 
 ````
@@ -784,7 +787,7 @@ language: bn
 
 # বোম্বাগড়ের রাজা
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/bombagorer-raja.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/bombagorer-raja.svg" />
 
 
 ````
@@ -803,14 +806,14 @@ language: bn
 সিংহাসনে ঝোলায় কেন ভাঙা বোতল শিশি?
 কুমড়ো নিয়ে ক্রিকেট খেলে কেন রাজার পিসি?
 রাজার খুড়ো নাচেন কেন হুঁকোর মালা প’রে?
-এমন কেন ঘটছে তা কেউ বলতে পার মোরে? 
+এমন কেন ঘটছে তা কেউ বলতে পার মোরে?
 ````
 
 * * * *
 
 # একুশে আইন
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/ekushe-ain.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/ekushe-ain.svg" />
 
 
 ````
@@ -899,7 +902,7 @@ language: bn
 
 # দাঁড়ে দাঁড়ে দ্রুম
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/dare-dare-drum.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/dare-dare-drum.svg" />
 
 ````
 ছুটছে মোটর ঘটর ঘটর ছুটছে গাড়ি জুড়ি;
@@ -941,7 +944,7 @@ language: bn
 
 # নারদ-নারদ
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/narod-narod.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/narod-narod.svg" />
 
 ````
 "হ্যাঁরে হ্যাঁরে তুই নাকি কাল     সাদাকে বল্‌ছিলি লাল?
@@ -1019,7 +1022,7 @@ language: bn
 
 # ডানপিটে
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/danpite.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/danpite.svg" />
 
 ````
    বাপ্ রে কি ডানপিটে ছেলে!—
@@ -1048,6 +1051,9 @@ language: bn
 
 # রামগরুড়ের ছানা
 
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/ramgorurer-chhana.svg" />
+
+
 ````
 রামগরুড়ের ছানা        হাসতে তাদের মানা,
         হাসির কথা শুনলে বলে,
@@ -1075,14 +1081,12 @@ language: bn
         নিষেধ সেথায় হাসা। 
 ````
 
-<img class="img-fluid" src="images/SukumarRay_Poetry_AbolTabol/ramgorurer-chhana.svg" />
-
 
 * * * *
 
 # আহ্লাদী
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/ahladi.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/ahladi.svg" />
 
 ````
      হাসছি মোরা হাসছি দেখ, 
@@ -1184,7 +1188,7 @@ language: bn
 
 # কাঁদুনে 
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/kandune.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/kandune.svg" />
 
 ````
 ছিঁচ্‌কাঁদুনে মিচ্‌কে যারা শস্তা কেঁদে নাম কেনে,
@@ -1307,7 +1311,7 @@ language: bn
 
 # নোট বই
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/note-boi.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/note-boi.svg" />
 
 
 ````
@@ -1360,6 +1364,8 @@ language: bn
 
 # ট্যাঁশ্ গরু
 
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/tyash-goru.svg" />
+
 ````
 ট্যাঁশ্ গরু গরু নয় আসলেতে পাখি সে;
 যার খুশি দেখে এস হারুদের আফিসে।
@@ -1387,8 +1393,6 @@ language: bn
 শস্তায় দিতে পারি, দেখ ভেবে চিন্তে।
 ````
 
-<img class="img-fluid" src="images/SukumarRay_Poetry_AbolTabol/tyash-goru.svg" />
-
 
 * * * *
 
@@ -1412,7 +1416,7 @@ language: bn
 
 # পালোয়ান
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/paloyan.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/paloyan.svg" />
 
 ````
 খেলার ছলে ষষ্ঠিচরণ হাতি লোফেন যখন তখন,
@@ -1443,7 +1447,7 @@ language: bn
 
 # বিজ্ঞান শিক্ষা
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/bigyan-shiksha.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/bigyan-shiksha.svg" />
 
 
 ````
@@ -1524,7 +1528,7 @@ language: bn
 
 # আবোল তাবোল
 
-<img class="float-right" src="images/SukumarRay_Poetry_AbolTabol/abol-tabol-2.svg" />
+<img class="img-right" src="images/SukumarRay_Poetry_AbolTabol/abol-tabol-2.svg" />
 
 ````
 মেঘ মুলুকে ঝাপ্‌সা রাতে,
@@ -1564,3 +1568,5 @@ language: bn
 ঘনিয়ে এল ঘুমের ঘোর,
 গানের পালা সাঙ্গ মোর।
 ````
+
+
