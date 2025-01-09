@@ -2,6 +2,7 @@
 title: খাই খাই
 author: সুকুমার রায়
 language: bn
+layout: default
 ---
 
 * * * *

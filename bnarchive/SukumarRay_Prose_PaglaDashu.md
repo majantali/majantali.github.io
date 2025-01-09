@@ -2,6 +2,7 @@
 title: পাগলা দাশু
 author: সুকুমার রায়
 language: bn
+layout: default
 ---
 
 # পাগলা দাশু

@@ -2,6 +2,7 @@
 title: চর্যাপদ
 author: বিভিন্ন বৌদ্ধ সিদ্ধাচার্য
 language: bn
+layout: default
 ---
 
 # ১ রাগ [ পটমঞ্জরী ] (লুইপাদানাম্)

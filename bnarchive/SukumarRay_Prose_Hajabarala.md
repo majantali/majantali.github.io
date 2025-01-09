@@ -2,6 +2,7 @@
 title: হ য ব র ল
 author: সুকুমার রায়
 language: bn
+layout: default
 ---
 
 * * * *

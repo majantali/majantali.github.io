@@ -2,6 +2,7 @@
 title: ভোঁদড় বাহাদুর
 author: গগনেন্দ্রনাথ ঠাকুর
 language: bn
+layout: default
 ---
 
 

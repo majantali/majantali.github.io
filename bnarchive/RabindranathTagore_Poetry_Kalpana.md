@@ -2,6 +2,7 @@
 title: কল্পনা
 author: রবীন্দ্রনাথ ঠাকুর
 language: bn
+layout: default
 ---
 
 # উৎসর্গ
