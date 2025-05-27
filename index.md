@@ -40,6 +40,8 @@ layout: landing
 	
 - [লিপিকা](bnarchive/RabindranathTagore_Prose_Lipika)
 
+- [গল্পগুচ্ছ (প্রথম খণ্ড)](bnarchive/RabindranathTagore_Prose_GalpaGuchchha_1)
+
 ### রবীন্দ্রনাথ ঠাকুর :: কবিতা
 	
 - [কল্পনা](bnarchive/RabindranathTagore_Poetry_Kalpana)
