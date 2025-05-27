@@ -1,6 +1,6 @@
 ---
-title: 'গল্পগুচ্ছ --- প্রথম খণ্ড'
-author: বিভিন্ন বৌদ্ধ সিদ্ধাচার্য
+title: 'গল্পগুচ্ছ – প্রথম খণ্ড'
+author: রবীন্দ্রনাথ ঠাকুর
 language: bn
 layout: default
 source: bn.wikisource.org
